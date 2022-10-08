@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\bin\Debug\T8_DECG_1003122.exe.config
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\bin\Debug\T8_DECG_1003122.exe
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\bin\Debug\T8_DECG_1003122.pdb
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.Form1.resources
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.Properties.Resources.resources
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.exe
+C:\Users\diego\source\repos\T8_DECG_1003122\T8_DECG_1003122\obj\Debug\T8_DECG_1003122.pdb

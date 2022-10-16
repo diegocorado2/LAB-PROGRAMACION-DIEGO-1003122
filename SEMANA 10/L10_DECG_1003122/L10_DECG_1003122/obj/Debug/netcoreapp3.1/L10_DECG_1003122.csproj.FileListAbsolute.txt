@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\bin\Debug\netcoreapp3.1\L10_DECG_1003122.exe
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\bin\Debug\netcoreapp3.1\L10_DECG_1003122.deps.json
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\bin\Debug\netcoreapp3.1\L10_DECG_1003122.runtimeconfig.json
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\bin\Debug\netcoreapp3.1\L10_DECG_1003122.runtimeconfig.dev.json
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\bin\Debug\netcoreapp3.1\L10_DECG_1003122.dll
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\bin\Debug\netcoreapp3.1\L10_DECG_1003122.pdb
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.AssemblyInfo.cs
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.dll
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.pdb
+C:\Users\diego\source\repos\L10_DECG_1003122\L10_DECG_1003122\obj\Debug\netcoreapp3.1\L10_DECG_1003122.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.AssemblyReference.cache
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfoInputs.cache
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfo.cs
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.CoreCompileInputs.cache
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.exe
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.deps.json
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.json
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.dev.json
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\Contabilidad Finanza\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.genruntimeconfig.cache
